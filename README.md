@@ -7,7 +7,7 @@ An official source code for paper Unpaired Multi-View Graph Clustering with Cros
 **datasets**: 3Sources_fea.mat & ORL_fea.mat
 
 Please cite:
-'''
+```
 @article{wen2023unpaired,
   title={Unpaired multi-view graph clustering with cross-view structure matching},
   author={Wen, Yi and Wang, Siwei and Liao, Qing and Liang, Weixuan and Liang, Ke and Wan, Xinhang and Liu, Xinwang},
@@ -15,4 +15,4 @@ Please cite:
   year={2023},
   publisher={IEEE}
 }
-'''
+```
