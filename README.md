@@ -11,7 +11,7 @@ An official source code for paper Unpaired Multi-View Graph Clustering with Cros
 - 3Sources_fea.mat
 - ORL_fea.mat
 
-# Citations:
+# Citations
 If you find this repository helpful, please cite our paper:
 ```
 @article{wen2023unpaired,
