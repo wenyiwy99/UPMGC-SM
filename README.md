@@ -1,5 +1,18 @@
-Unpaired Multi-View Graph Clustering with Cross-View Structure Matching (UPMGC-SM)
+# Unpaired Multi-View Graph Clustering with Cross-View Structure Matching (UPMGC-SM)
 
-Accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+An official source code for paper Unpaired Multi-View Graph Clustering with Cross-View Structure Matching, accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS). Any communications or issues are welcomed. Please contact wenyiwy2022@163.com.
 
-If you have any questions, welcome to contact me by email, my email is wenyiwy2022@163.com
+**main function**: LSR+Ours/run.m & GMC+Ours/run.m & CoMSC+Ours/run.m
+
+**datasets**: 3Sources_fea.mat & ORL_fea.mat
+
+Please cite:
+'''
+@article{wen2023unpaired,
+  title={Unpaired multi-view graph clustering with cross-view structure matching},
+  author={Wen, Yi and Wang, Siwei and Liao, Qing and Liang, Weixuan and Liang, Ke and Wan, Xinhang and Liu, Xinwang},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2023},
+  publisher={IEEE}
+}
+'''
