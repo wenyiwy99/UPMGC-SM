@@ -17,9 +17,9 @@ Extensive experiments demonstrate the effectiveness and generalization of our pr
 
 # Acknowledgements
 Our code are partly based on the following GitHub repository. Thanks for their awesome works.
-- LSR
-- GMC
-- CoMSC
+- [LSR](https://github.com/canyilu/Least-Squares-Regression-for-subspace-clustering)
+- [GMC](https://github.com/cshaowang/gmc)
+- [CoMSC](https://github.com/liujiyuan13/CoMSC-code_release)
 
 # Citations
 If you find this repository helpful, please cite our paper:
