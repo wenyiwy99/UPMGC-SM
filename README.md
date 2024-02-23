@@ -2,9 +2,9 @@
 
 An official source code for paper Unpaired Multi-View Graph Clustering with Cross-View Structure Matching, accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS). Any communications or issues are welcomed. Please contact wenyiwy2022@163.com.
 
-**main function**: LSR+Ours/run.m & GMC+Ours/run.m & CoMSC+Ours/run.m
+**Main function**: LSR+Ours/run.m & GMC+Ours/run.m & CoMSC+Ours/run.m
 
-**datasets**: 3Sources_fea.mat & ORL_fea.mat
+**Datasets**: 3Sources_fea.mat & ORL_fea.mat
 
 Please cite:
 ```
