@@ -15,6 +15,12 @@ Extensive experiments demonstrate the effectiveness and generalization of our pr
 - 3Sources_fea.mat
 - ORL_fea.mat
 
+# Acknowledgements
+Our code are partly based on the following GitHub repository. Thanks for their awesome works.
+- LSR
+- GMC
+- CoMSC
+
 # Citations
 If you find this repository helpful, please cite our paper:
 ```
